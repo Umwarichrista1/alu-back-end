@@ -15,4 +15,3 @@ if __name__ == "__main__":
         user.get("name"), len(done), len(todos)))
     for title in done:
         print("\t {}".format(title))
-
